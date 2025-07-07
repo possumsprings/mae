@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img width="460" height="300" src="[https://files.catbox.moe/h9z2c9.png](https://borowskis.straw.page)">
+  <img width="460" height="300" src="https://files.catbox.moe/h9z2c9.png">
 </p>
 <p align="center">
-   <sub>click img for info</sub> 
+   <sub>https://borowskis.straw.page</sub> 
    </p>
